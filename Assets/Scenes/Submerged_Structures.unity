@@ -633,7 +633,7 @@ GameObject:
   - component: {fileID: 5345907660829885514}
   - component: {fileID: 6284112311911325220}
   m_Layer: 0
-  m_Name: Cube.073
+  m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -651,7 +651,7 @@ GameObject:
   - component: {fileID: 3532606898809604823}
   - component: {fileID: 1318084669332097546}
   m_Layer: 0
-  m_Name: cup
+  m_Name: Oil_Rig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1216,7 +1216,7 @@ GameObject:
   - component: {fileID: 3099778797661086706}
   - component: {fileID: 8939497986326043528}
   m_Layer: 0
-  m_Name: cup.002
+  m_Name: Crane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1457,7 +1457,7 @@ GameObject:
   - component: {fileID: 3334296863447015287}
   - component: {fileID: 2670104581203363250}
   m_Layer: 0
-  m_Name: YellowBarrel 1
+  m_Name: YellowBarrel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1553,7 +1553,7 @@ GameObject:
   - component: {fileID: 791838279442377673}
   - component: {fileID: 2428456776891623161}
   m_Layer: 0
-  m_Name: sea_container
+  m_Name: Sea_Container
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2316,7 +2316,7 @@ GameObject:
   - component: {fileID: 5190881395250118758}
   - component: {fileID: 2988871833062406155}
   m_Layer: 0
-  m_Name: baki
+  m_Name: Baki
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2445,7 +2445,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3725134096912111604}
   m_Layer: 0
-  m_Name: oild_platform_cup_exp
+  m_Name: Oil_Rig_platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2902,7 +2902,7 @@ GameObject:
   - component: {fileID: 5281539275519235002}
   - component: {fileID: 7348599316983676178}
   m_Layer: 0
-  m_Name: cup.003
+  m_Name: Big_Tank
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5366,7 +5366,7 @@ GameObject:
   - component: {fileID: 6278364673884496993}
   - component: {fileID: 6278364673884496994}
   m_Layer: 0
-  m_Name: RedBarrel 1
+  m_Name: RedBarrel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5568,7 +5568,7 @@ GameObject:
   - component: {fileID: 1300047374360592035}
   - component: {fileID: 8622732816080786346}
   m_Layer: 0
-  m_Name: railing
+  m_Name: Railing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
